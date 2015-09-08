@@ -1,0 +1,1 @@
+volunteer = angular.module('volunteer', [])
